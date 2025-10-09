@@ -64,3 +64,39 @@ p{
 button{
     cursor: pointer;
 }
+.p3{
+    font-size: 15px;
+    color: grey;
+    display: flex;
+    margin: 0;
+   padding-bottom: 20px;
+}
+.learnm{
+    color:black;
+    background-color:rgb(156, 102, 32);
+    color: white;
+    height:40px;
+    border-radius: 10px;
+    height: 50px;
+    width: 250px;
+    cursor: pointer;
+ 
+}
+.fb{
+color: black;
+
+}
+.p5{
+    font-size: 15px;
+    color: grey;
+    display: flex;
+    margin: 0;
+padding-right: 180px;
+    }
+
+
+.partie4{
+    display: flex;
+    justify-content: center;
+    
+}
